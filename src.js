@@ -1,1 +1,4 @@
-console.log('cocoquito run ญญ')
+console.log('cocoquito run ญญ');
+alert('los dos si podemos กก');
+
+if(5>69){console.log('gol');}else{console.log('faul');}
